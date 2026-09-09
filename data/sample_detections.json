@@ -1,0 +1,77 @@
+[
+  {
+    "id": "SURVIVOR_001",
+    "type": "person",
+    "confidence": 0.94,
+    "latitude": 11.0168,
+    "longitude": 76.9558,
+    "timestamp": "2026-09-08T14:30:21",
+    "sector": "B4",
+    "thermal_confirmed": true,
+    "nearby_fire": true,
+    "nearby_smoke": false,
+    "nearby_flood": false
+  },
+  {
+    "id": "FIRE_001",
+    "type": "fire",
+    "confidence": 0.89,
+    "latitude": 11.0172,
+    "longitude": 76.9563,
+    "timestamp": "2026-09-08T14:31:02",
+    "sector": "B4"
+  },
+  {
+    "id": "SURVIVOR_002",
+    "type": "person",
+    "confidence": 0.88,
+    "latitude": 11.0195,
+    "longitude": 76.9520,
+    "timestamp": "2026-09-08T14:32:15",
+    "sector": "A2",
+    "thermal_confirmed": true,
+    "nearby_fire": false,
+    "nearby_smoke": true,
+    "nearby_flood": true
+  },
+  {
+    "id": "FLOOD_001",
+    "type": "flood",
+    "confidence": 0.91,
+    "latitude": 11.0198,
+    "longitude": 76.9515,
+    "timestamp": "2026-09-08T14:32:10",
+    "sector": "A2"
+  },
+  {
+    "id": "DEBRIS_001",
+    "type": "debris",
+    "confidence": 0.82,
+    "latitude": 11.0145,
+    "longitude": 76.9580,
+    "timestamp": "2026-09-08T14:33:00",
+    "sector": "C1"
+  },
+  {
+    "id": "SURVIVOR_003",
+    "type": "person",
+    "confidence": 0.96,
+    "latitude": 11.0170,
+    "longitude": 76.9560,
+    "timestamp": "2026-09-08T14:34:00",
+    "sector": "B4",
+    "thermal_confirmed": true,
+    "nearby_fire": true,
+    "nearby_smoke": true,
+    "nearby_flood": false
+  },
+  {
+    "id": "DAMAGED_001",
+    "type": "damaged_structure",
+    "confidence": 0.85,
+    "latitude": 11.0165,
+    "longitude": 76.9550,
+    "timestamp": "2026-09-08T14:34:30",
+    "sector": "B4"
+  }
+]
